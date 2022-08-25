@@ -1,2 +1,2 @@
 # C--project
-some files of a C# project
+some files from a C# project
